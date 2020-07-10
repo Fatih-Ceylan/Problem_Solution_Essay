@@ -1,0 +1,11 @@
+C:\Users\feti\source\repos\Problem_Solution_Essay\bin\Debug\netcoreapp3.1\Problem_Solution_Essay.exe
+C:\Users\feti\source\repos\Problem_Solution_Essay\bin\Debug\netcoreapp3.1\Problem_Solution_Essay.deps.json
+C:\Users\feti\source\repos\Problem_Solution_Essay\bin\Debug\netcoreapp3.1\Problem_Solution_Essay.runtimeconfig.json
+C:\Users\feti\source\repos\Problem_Solution_Essay\bin\Debug\netcoreapp3.1\Problem_Solution_Essay.runtimeconfig.dev.json
+C:\Users\feti\source\repos\Problem_Solution_Essay\bin\Debug\netcoreapp3.1\Problem_Solution_Essay.dll
+C:\Users\feti\source\repos\Problem_Solution_Essay\bin\Debug\netcoreapp3.1\Problem_Solution_Essay.pdb
+C:\Users\feti\source\repos\Problem_Solution_Essay\obj\Debug\netcoreapp3.1\Problem_Solution_Essay.csprojAssemblyReference.cache
+C:\Users\feti\source\repos\Problem_Solution_Essay\obj\Debug\netcoreapp3.1\Problem_Solution_Essay.AssemblyInfoInputs.cache
+C:\Users\feti\source\repos\Problem_Solution_Essay\obj\Debug\netcoreapp3.1\Problem_Solution_Essay.AssemblyInfo.cs
+C:\Users\feti\source\repos\Problem_Solution_Essay\obj\Debug\netcoreapp3.1\Problem_Solution_Essay.dll
+C:\Users\feti\source\repos\Problem_Solution_Essay\obj\Debug\netcoreapp3.1\Problem_Solution_Essay.pdb
