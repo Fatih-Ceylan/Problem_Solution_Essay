@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\feti\\Desktop\\Problem_Solution_Essay\\Problem_Solution_Essay.csproj": {}
+    "C:\\Users\\feti\\Documents\\GitHub\\Problem_Solution_Essay\\Problem_Solution_Essay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\feti\\Desktop\\Problem_Solution_Essay\\Problem_Solution_Essay.csproj": {
+    "C:\\Users\\feti\\Documents\\GitHub\\Problem_Solution_Essay\\Problem_Solution_Essay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\feti\\Desktop\\Problem_Solution_Essay\\Problem_Solution_Essay.csproj",
+        "projectUniqueName": "C:\\Users\\feti\\Documents\\GitHub\\Problem_Solution_Essay\\Problem_Solution_Essay.csproj",
         "projectName": "Problem_Solution_Essay",
-        "projectPath": "C:\\Users\\feti\\Desktop\\Problem_Solution_Essay\\Problem_Solution_Essay.csproj",
+        "projectPath": "C:\\Users\\feti\\Documents\\GitHub\\Problem_Solution_Essay\\Problem_Solution_Essay.csproj",
         "packagesPath": "C:\\Users\\feti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\feti\\Desktop\\Problem_Solution_Essay\\obj\\",
+        "outputPath": "C:\\Users\\feti\\Documents\\GitHub\\Problem_Solution_Essay\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
